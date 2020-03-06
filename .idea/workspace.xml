@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="753aa6aa-62c7-4f4f-9d59-eef1551b6235" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DS2-recursion/第四天/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS2-recursion/第四天/递归.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一天/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一天/disorderString.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/disorderString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一天/listPractise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/listPractise1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一天/pravtise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/pravtise01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一天/pravtise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/pravtise02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一天/python数据结构的性能.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/python数据结构的性能.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一天/算法与算法分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/算法与算法分析.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三天/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三天/dequePractise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/dequePractise01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三天/queuePractise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/queuePractise01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三天/双端队列（Deque）.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/双端队列（Deque）.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三天/基本数据结构总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/基本数据结构总结.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三天/队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/队列.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二天/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第二天/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二天/stackPractise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第二天/stackPractise01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二天/stackPractise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第二天/stackPractise02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二天/基本数据结构一.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第二天/基本数据结构一.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,6 +15,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_data_structures$practive.coverage" NAME="practive Coverage Results" MODIFIED="1583113099239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_data_structures$recursionPractise.coverage" NAME="recursionPractise Coverage Results" MODIFIED="1583480962937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS2-recursion/第四天" />
     <SUITE FILE_PATH="coverage/python_data_structures$listpravise.coverage" NAME="listpravise Coverage Results" MODIFIED="1583197049402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/python_data_structures$stackPractise01.coverage" NAME="stackPractise01 Coverage Results" MODIFIED="1583304369030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二天" />
     <SUITE FILE_PATH="coverage/python_data_structures$queuePractise01.coverage" NAME="queuePractise01 Coverage Results" MODIFIED="1583389868164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三天" />
@@ -44,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="递归.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="递归.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/递归.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="54">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,8 +39,20 @@
       <file leaf-file-name="listsum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/listsum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+            <state relative-caret-position="93">
+              <caret line="58" column="6" lean-forward="true" selection-start-line="58" selection-start-column="6" selection-end-line="71" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recursionPractise.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+              <folding>
+                <element signature="e#19#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,7 +93,9 @@
         <option value="$PROJECT_DIR$/第三天/dequePractise01.py" />
         <option value="$PROJECT_DIR$/第一天/disorderString.py" />
         <option value="$PROJECT_DIR$/DS2-introduction/第四天/递归.md" />
+        <option value="$PROJECT_DIR$/DS2-recursion/第四天/递归.md" />
         <option value="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" />
+        <option value="$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py" />
       </list>
     </option>
   </component>
@@ -111,11 +108,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="407" />
-    <option name="y" value="42" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="505" />
+    <option name="y" value="124" />
     <option name="width" value="900" />
-    <option name="height" value="566" />
+    <option name="height" value="583" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -177,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listsum">
+  <component name="RunManager" selected="Python.recursionPractise">
     <configuration name="dequePractise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,7 +251,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="stackPractise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="recursionPractise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,12 +259,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二天" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS2-recursion/第四天" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二天/stackPractise01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,19 +291,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.listpravise" />
-      <item itemvalue="Python.stackPractise01" />
       <item itemvalue="Python.stackPractise02" />
       <item itemvalue="Python.queuePractise01" />
       <item itemvalue="Python.dequePractise01" />
       <item itemvalue="Python.listsum" />
+      <item itemvalue="Python.recursionPractise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.recursionPractise" />
         <item itemvalue="Python.listsum" />
         <item itemvalue="Python.dequePractise01" />
         <item itemvalue="Python.queuePractise01" />
         <item itemvalue="Python.stackPractise02" />
-        <item itemvalue="Python.stackPractise01" />
       </list>
     </recent_temporary>
   </component>
@@ -329,18 +326,17 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="407" y="42" width="900" height="566" extended-state="0" />
-    <editor active="true" />
+    <frame x="505" y="124" width="900" height="583" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.6346604" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32794458" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.0" />
       <window_info anchor="right" id="Remote Host" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.17261904" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.071428575" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -545,17 +541,27 @@
     <entry file="file://$PROJECT_DIR$/DS1-introduction/第二天/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/listsum.py">
+    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/递归.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+        <state relative-caret-position="54">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/递归.md">
+    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/listsum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="93">
+          <caret line="58" column="6" lean-forward="true" selection-start-line="58" selection-start-column="6" selection-end-line="71" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding>
+            <element signature="e#19#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
