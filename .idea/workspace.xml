@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="753aa6aa-62c7-4f4f-9d59-eef1551b6235" name="Default" comment="" />
+    <list default="true" id="753aa6aa-62c7-4f4f-9d59-eef1551b6235" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/DS2-recursion/第四天/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS2-recursion/第四天/递归.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一天/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一天/disorderString.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/disorderString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一天/listPractise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/listPractise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一天/pravtise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/pravtise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一天/pravtise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/pravtise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一天/python数据结构的性能.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/python数据结构的性能.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一天/算法与算法分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第一天/算法与算法分析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三天/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三天/dequePractise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/dequePractise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三天/queuePractise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/queuePractise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三天/双端队列（Deque）.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/双端队列（Deque）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三天/基本数据结构总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/基本数据结构总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三天/队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第三天/队列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二天/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第二天/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二天/stackPractise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第二天/stackPractise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二天/stackPractise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第二天/stackPractise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二天/基本数据结构一.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS1-introduction/第二天/基本数据结构一.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,36 +37,29 @@
     <SUITE FILE_PATH="coverage/python_data_structures$stackPractise01.coverage" NAME="stackPractise01 Coverage Results" MODIFIED="1583304369030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二天" />
     <SUITE FILE_PATH="coverage/python_data_structures$queuePractise01.coverage" NAME="queuePractise01 Coverage Results" MODIFIED="1583389868164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三天" />
     <SUITE FILE_PATH="coverage/python_data_structures$stackPractise02.coverage" NAME="stackPractise02 Coverage Results" MODIFIED="1583389858476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二天" />
+    <SUITE FILE_PATH="coverage/python_data_structures$listsum.coverage" NAME="listsum Coverage Results" MODIFIED="1583456711557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS2-recursion/第四天" />
     <SUITE FILE_PATH="coverage/python_data_structures$py_test_for_listPractisel_test1.coverage" NAME="py.test for listPractisel.test1 Coverage Results" MODIFIED="1583196784690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一天" />
     <SUITE FILE_PATH="coverage/python_data_structures$disorderString.coverage" NAME="disorderString Coverage Results" MODIFIED="1583196248082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_data_structures$dequePractise01.coverage" NAME="dequePractise01 Coverage Results" MODIFIED="1583398810435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三天" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="队列.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/队列.md">
+      <file leaf-file-name="递归.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/递归.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="39">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="queuePractise01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/queuePractise01.py">
+      <file leaf-file-name="listsum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/listsum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-              <folding>
-                <element signature="e#312#450#1" />
-              </folding>
+            <state relative-caret-position="160">
+              <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="双端队列（Deque）.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第三天/双端队列（Deque）.md">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -78,6 +93,12 @@
         <option value="$PROJECT_DIR$/第三天/queuePractise01.py" />
         <option value="$PROJECT_DIR$/第二天/stackPractise01.py" />
         <option value="$PROJECT_DIR$/第二天/stackPractise02.py" />
+        <option value="$PROJECT_DIR$/第三天/双端队列（Deque）.md" />
+        <option value="$PROJECT_DIR$/第三天/基本数据结构总结.md" />
+        <option value="$PROJECT_DIR$/第三天/dequePractise01.py" />
+        <option value="$PROJECT_DIR$/第一天/disorderString.py" />
+        <option value="$PROJECT_DIR$/DS2-introduction/第四天/递归.md" />
+        <option value="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" />
       </list>
     </option>
   </component>
@@ -91,10 +112,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="214" />
-    <option name="y" value="15" />
-    <option name="width" value="1140" />
-    <option name="height" value="631" />
+    <option name="x" value="407" />
+    <option name="y" value="42" />
+    <option name="width" value="900" />
+    <option name="height" value="566" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -114,17 +135,13 @@
             <path>
               <item name="python_data_structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_structures" type="462c0819:PsiDirectoryNode" />
-              <item name="第一天" type="462c0819:PsiDirectoryNode" />
+              <item name="DS2-recursion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_structures" type="462c0819:PsiDirectoryNode" />
-              <item name="第三天" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_structures" type="462c0819:PsiDirectoryNode" />
-              <item name="第二天" type="462c0819:PsiDirectoryNode" />
+              <item name="DS2-recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="第四天" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,6 +160,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\UU\Desktop\python_data_structures\DS2-introduction" />
+      <recent name="C:\Users\UU\Desktop\python_data_structures\DS1-introduction" />
       <recent name="C:\Users\UU\Desktop\python_data_structures\第一天" />
     </key>
   </component>
@@ -158,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dequePractise01">
+  <component name="RunManager" selected="Python.listsum">
     <configuration name="dequePractise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,25 +197,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="disorderString" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_structures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\UU\Desktop\python_data_structures\第一天\disorderString.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="listpravise" type="PythonConfigurationType" factoryName="Python">
       <module name="python_data_structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,6 +211,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="listsum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS2-recursion/第四天" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,19 +294,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.listpravise" />
-      <item itemvalue="Python.disorderString" />
       <item itemvalue="Python.stackPractise01" />
       <item itemvalue="Python.stackPractise02" />
       <item itemvalue="Python.queuePractise01" />
       <item itemvalue="Python.dequePractise01" />
+      <item itemvalue="Python.listsum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.listsum" />
         <item itemvalue="Python.dequePractise01" />
         <item itemvalue="Python.queuePractise01" />
         <item itemvalue="Python.stackPractise02" />
         <item itemvalue="Python.stackPractise01" />
-        <item itemvalue="Python.disorderString" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +329,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="214" y="15" width="1140" height="631" extended-state="0" />
+    <frame x="407" y="42" width="900" height="566" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
@@ -318,10 +337,10 @@
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.6346604" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.02811245" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32794458" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.0" />
       <window_info anchor="right" id="Remote Host" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.13425925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.17261904" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -344,56 +363,56 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第一天/pravtise01.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/pravtise01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/pravtise02.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/pravtise02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/stackPractise01.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第二天/stackPractise01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4485">
           <caret line="115" column="26" selection-start-line="115" selection-start-column="26" selection-end-line="115" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/pravtise01.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/pravtise01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/pravtise02.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/pravtise02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/listPractise1.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/listPractise1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2028">
           <caret line="52" column="53" lean-forward="true" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/pravtise01.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/pravtise01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/pravtise02.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/pravtise02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
@@ -414,78 +433,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/算法与算法分析.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/disorderString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第一天/listPractisel.py" />
     <entry file="file://$PROJECT_DIR$/第一天/listpravtise.html" />
     <entry file="file://$PROJECT_DIR$/第一天/listpravise.py" />
-    <entry file="file://$PROJECT_DIR$/第一天/pravtise01.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/算法与算法分析.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/pravtise01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/python数据结构的性能.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/listPractise1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第一天/pravtise02.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/pravtise02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/基本数据结构一.md">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/listPractise1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="2028">
+          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/python数据结构的性能.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第一天/disorderString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第二天/基本数据结构一.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4329">
           <caret line="111" column="16" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/stackPractise02.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第二天/stackPractise01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4485">
+          <caret line="115" column="26" selection-start-line="115" selection-start-column="26" selection-end-line="115" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第二天/stackPractise02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/stackPractise01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="115" column="26" selection-start-line="115" selection-start-column="26" selection-end-line="115" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/队列.md">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第三天/队列.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/queuePractise01.py">
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第三天/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第三天/基本数据结构总结.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第三天/双端队列（Deque）.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第三天/dequePractise01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1521">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第三天/queuePractise01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
           <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
           <folding>
             <element signature="e#312#450#1" />
@@ -493,8 +539,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/双端队列（Deque）.md">
+    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-introduction/第二天/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/listsum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/递归.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
