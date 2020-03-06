@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS2-recursion/第四天/递归.md" beforeDir="false" afterPath="$PROJECT_DIR$/DS2-recursion/第四天/递归.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,29 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="递归.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/递归.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listsum.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="listsum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/listsum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="58" column="6" lean-forward="true" selection-start-line="58" selection-start-column="6" selection-end-line="71" selection-end-column="22" />
+            <state relative-caret-position="169">
+              <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recursionPractise.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="recursionPractise.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+            <state relative-caret-position="169">
+              <caret line="42" column="13" selection-end-line="47" selection-end-column="37" />
               <folding>
                 <element signature="e#19#32#0" expanded="true" />
               </folding>
@@ -94,8 +86,8 @@
         <option value="$PROJECT_DIR$/第一天/disorderString.py" />
         <option value="$PROJECT_DIR$/DS2-introduction/第四天/递归.md" />
         <option value="$PROJECT_DIR$/DS2-recursion/第四天/递归.md" />
-        <option value="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" />
         <option value="$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py" />
+        <option value="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" />
       </list>
     </option>
   </component>
@@ -326,17 +318,17 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="505" y="124" width="900" height="583" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.6346604" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32872504" />
       <window_info anchor="right" id="Remote Host" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.071428575" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.045385778" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -543,25 +535,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/递归.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/listsum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="58" column="6" lean-forward="true" selection-start-line="58" selection-start-column="6" selection-end-line="71" selection-end-column="22" />
+        <state relative-caret-position="867">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        <state relative-caret-position="169">
+          <caret line="42" column="13" selection-end-line="47" selection-end-column="37" />
           <folding>
             <element signature="e#19#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS2-recursion/第四天/listsum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
         </state>
       </provider>
     </entry>
