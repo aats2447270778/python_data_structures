@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="753aa6aa-62c7-4f4f-9d59-eef1551b6235" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/DS3-sortandsearch/第六天/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DS3-sortandsearch/第五天/searchPractise.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS3-sortandsearch/第五天/searchPractise.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,6 +20,7 @@
     <SUITE FILE_PATH="coverage/python_data_structures$stackPractise01.coverage" NAME="stackPractise01 Coverage Results" MODIFIED="1583304369030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二天" />
     <SUITE FILE_PATH="coverage/python_data_structures$queuePractise01.coverage" NAME="queuePractise01 Coverage Results" MODIFIED="1583389868164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三天" />
     <SUITE FILE_PATH="coverage/python_data_structures$stackPractise02.coverage" NAME="stackPractise02 Coverage Results" MODIFIED="1583389858476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二天" />
+    <SUITE FILE_PATH="coverage/python_data_structures$sortPractise.coverage" NAME="sortPractise Coverage Results" MODIFIED="1583802759650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS3-sortandsearch/第六天" />
     <SUITE FILE_PATH="coverage/python_data_structures$listsum.coverage" NAME="listsum Coverage Results" MODIFIED="1583456711557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS2-recursion/第四天" />
     <SUITE FILE_PATH="coverage/python_data_structures$py_test_for_listPractisel_test1.coverage" NAME="py.test for listPractisel.test1 Coverage Results" MODIFIED="1583196784690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一天" />
     <SUITE FILE_PATH="coverage/python_data_structures$disorderString.coverage" NAME="disorderString Coverage Results" MODIFIED="1583196248082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -30,13 +32,22 @@
       <file leaf-file-name="排序和搜索" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="388">
+              <caret line="80" column="147" selection-start-line="80" selection-start-column="147" selection-end-line="80" selection-end-column="147" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="searchPractise.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sortPractise.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchPractise.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第五天/searchPractise.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="520">
@@ -64,7 +75,6 @@
         <option value="$PROJECT_DIR$/practive.py" />
         <option value="$PROJECT_DIR$/pravtise01.py" />
         <option value="$PROJECT_DIR$/pravtise02.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/disorderString.py" />
         <option value="$PROJECT_DIR$/第一天/listPractisel.py" />
         <option value="$PROJECT_DIR$/第一天/listpravtise.html" />
@@ -84,8 +94,10 @@
         <option value="$PROJECT_DIR$/DS2-recursion/第四天/recursionPractise.py" />
         <option value="$PROJECT_DIR$/DS2-recursion/第四天/listsum.py" />
         <option value="$PROJECT_DIR$/DS2-recursion/第四天/递归.md" />
-        <option value="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" />
         <option value="$PROJECT_DIR$/DS3-sortandsearch/第五天/searchPractise.py" />
+        <option value="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py" />
       </list>
     </option>
   </component>
@@ -99,10 +111,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="844" />
-    <option name="height" value="689" />
+    <option name="x" value="292" />
+    <option name="y" value="43" />
+    <option name="width" value="953" />
+    <option name="height" value="618" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -136,6 +148,12 @@
               <item name="DS3-sortandsearch" type="462c0819:PsiDirectoryNode" />
               <item name="第五天" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_data_structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_data_structures" type="462c0819:PsiDirectoryNode" />
+              <item name="DS3-sortandsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="第六天" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -145,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../watchlist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gallery" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -170,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.searchPractise">
+  <component name="RunManager" selected="Python.sortPractise">
     <configuration name="dequePractise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,25 +246,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="queuePractise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_structures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三天" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三天/queuePractise01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="recursionPractise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data_structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -285,21 +284,40 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="sortPractise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS3-sortandsearch/第六天" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.listpravise" />
-      <item itemvalue="Python.queuePractise01" />
       <item itemvalue="Python.dequePractise01" />
       <item itemvalue="Python.listsum" />
       <item itemvalue="Python.recursionPractise" />
       <item itemvalue="Python.searchPractise" />
+      <item itemvalue="Python.sortPractise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sortPractise" />
         <item itemvalue="Python.searchPractise" />
         <item itemvalue="Python.recursionPractise" />
         <item itemvalue="Python.listsum" />
         <item itemvalue="Python.dequePractise01" />
-        <item itemvalue="Python.queuePractise01" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +340,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="292" y="43" width="953" height="618" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
@@ -330,10 +348,10 @@
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.6346604" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.0323741" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.12371134" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.0" />
       <window_info anchor="right" id="Remote Host" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.07715582" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.13661814" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -450,13 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -603,17 +614,31 @@
     <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第五天/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第五天/searchPractise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="101" column="3" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="80" column="147" selection-start-line="80" selection-start-column="147" selection-end-line="80" selection-end-column="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
         </state>
       </provider>
     </entry>
