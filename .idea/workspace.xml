@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="753aa6aa-62c7-4f4f-9d59-eef1551b6235" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" beforeDir="false" afterPath="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法" beforeDir="false" afterPath="$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +40,8 @@
       <file leaf-file-name="treepractise.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
-              <caret line="51" column="2" lean-forward="true" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+            <state relative-caret-position="173">
+              <caret line="153" column="47" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -92,8 +89,8 @@
         <option value="$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py" />
         <option value="$PROJECT_DIR$/DS3-sortandsearch/第六天/gitbook安装使用.md" />
         <option value="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" />
-        <option value="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" />
         <option value="$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法" />
+        <option value="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" />
       </list>
     </option>
   </component>
@@ -107,8 +104,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="351" />
-    <option name="y" value="82" />
+    <option name="x" value="464" />
+    <option name="y" value="23" />
     <option name="width" value="953" />
     <option name="height" value="617" />
   </component>
@@ -331,7 +328,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="351" y="82" width="953" height="617" extended-state="0" />
+    <frame x="401" y="45" width="953" height="617" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
@@ -339,8 +336,8 @@
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.6346604" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.49253732" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.020661157" />
       <window_info anchor="right" id="Remote Host" order="5" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.1769317" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -664,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="51" column="2" lean-forward="true" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+        <state relative-caret-position="173">
+          <caret line="153" column="47" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="47" />
         </state>
       </provider>
     </entry>
