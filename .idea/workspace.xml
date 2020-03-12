@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="753aa6aa-62c7-4f4f-9d59-eef1551b6235" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DS4-tree/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS4-tree/第六条2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" beforeDir="false" afterPath="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法" beforeDir="false" afterPath="$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,48 +16,35 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_data_structures$practive.coverage" NAME="practive Coverage Results" MODIFIED="1583113099239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_data_structures$recursionPractise.coverage" NAME="recursionPractise Coverage Results" MODIFIED="1583480962937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS2-recursion/第四天" />
     <SUITE FILE_PATH="coverage/python_data_structures$listpravise.coverage" NAME="listpravise Coverage Results" MODIFIED="1583197049402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/python_data_structures$stackPractise01.coverage" NAME="stackPractise01 Coverage Results" MODIFIED="1583304369030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二天" />
-    <SUITE FILE_PATH="coverage/python_data_structures$queuePractise01.coverage" NAME="queuePractise01 Coverage Results" MODIFIED="1583389868164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三天" />
     <SUITE FILE_PATH="coverage/python_data_structures$stackPractise02.coverage" NAME="stackPractise02 Coverage Results" MODIFIED="1583389858476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二天" />
     <SUITE FILE_PATH="coverage/python_data_structures$sortPractise.coverage" NAME="sortPractise Coverage Results" MODIFIED="1583802759650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS3-sortandsearch/第六天" />
-    <SUITE FILE_PATH="coverage/python_data_structures$listsum.coverage" NAME="listsum Coverage Results" MODIFIED="1583456711557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS2-recursion/第四天" />
     <SUITE FILE_PATH="coverage/python_data_structures$py_test_for_listPractisel_test1.coverage" NAME="py.test for listPractisel.test1 Coverage Results" MODIFIED="1583196784690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一天" />
     <SUITE FILE_PATH="coverage/python_data_structures$disorderString.coverage" NAME="disorderString Coverage Results" MODIFIED="1583196248082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_data_structures$dequePractise01.coverage" NAME="dequePractise01 Coverage Results" MODIFIED="1583398810435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三天" />
     <SUITE FILE_PATH="coverage/python_data_structures$searchPractise.coverage" NAME="searchPractise Coverage Results" MODIFIED="1583714772520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS3-sortandsearch/第五天" />
+    <SUITE FILE_PATH="coverage/python_data_structures$treepractise.coverage" NAME="treepractise Coverage Results" MODIFIED="1583974252241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS4-tree/第六条2" />
+    <SUITE FILE_PATH="coverage/python_data_structures$recursionPractise.coverage" NAME="recursionPractise Coverage Results" MODIFIED="1583480962937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS2-recursion/第四天" />
+    <SUITE FILE_PATH="coverage/python_data_structures$stackPractise01.coverage" NAME="stackPractise01 Coverage Results" MODIFIED="1583304369030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二天" />
+    <SUITE FILE_PATH="coverage/python_data_structures$queuePractise01.coverage" NAME="queuePractise01 Coverage Results" MODIFIED="1583389868164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三天" />
+    <SUITE FILE_PATH="coverage/python_data_structures$listsum.coverage" NAME="listsum Coverage Results" MODIFIED="1583456711557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS2-recursion/第四天" />
+    <SUITE FILE_PATH="coverage/python_data_structures$dequePractise01.coverage" NAME="dequePractise01 Coverage Results" MODIFIED="1583398810435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三天" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="排序和搜索" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="树和树的算法" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="treepractise.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="41" selection-start-column="41" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sortPractise.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="212" selection-start-line="212" selection-end-line="212" />
+            <state relative-caret-position="13">
+              <caret line="51" column="2" lean-forward="true" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -104,9 +90,10 @@
         <option value="$PROJECT_DIR$/DS3-sortandsearch/第五天/searchPractise.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py" />
-        <option value="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" />
         <option value="$PROJECT_DIR$/DS3-sortandsearch/第六天/gitbook安装使用.md" />
+        <option value="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" />
         <option value="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" />
+        <option value="$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法" />
       </list>
     </option>
   </component>
@@ -120,10 +107,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="402" />
-    <option name="y" value="217" />
+    <option name="x" value="351" />
+    <option name="y" value="82" />
     <option name="width" value="953" />
-    <option name="height" value="602" />
+    <option name="height" value="617" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -192,26 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sortPractise">
-    <configuration name="dequePractise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_data_structures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三天" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三天/dequePractise01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.treepractise">
     <configuration name="listpravise" type="PythonConfigurationType" factoryName="Python">
       <module name="python_data_structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -307,21 +275,40 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="treepractise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data_structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS4-tree/第六条2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.listpravise" />
-      <item itemvalue="Python.dequePractise01" />
       <item itemvalue="Python.listsum" />
       <item itemvalue="Python.recursionPractise" />
       <item itemvalue="Python.searchPractise" />
       <item itemvalue="Python.sortPractise" />
+      <item itemvalue="Python.treepractise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.treepractise" />
         <item itemvalue="Python.sortPractise" />
         <item itemvalue="Python.searchPractise" />
         <item itemvalue="Python.recursionPractise" />
         <item itemvalue="Python.listsum" />
-        <item itemvalue="Python.dequePractise01" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +331,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="402" y="217" width="953" height="602" extended-state="0" />
+    <frame x="351" y="82" width="953" height="617" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
@@ -352,10 +339,10 @@
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.6346604" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.63917524" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.17270789" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.49253732" />
       <window_info anchor="right" id="Remote Host" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.1769317" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.1769317" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -647,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="212" selection-start-line="212" selection-end-line="212" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第六天/gitbook安装使用.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -661,20 +641,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第六天/sortPractise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1391">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+        <state relative-caret-position="362">
+          <caret line="231" column="2" selection-start-line="231" selection-start-column="2" selection-end-line="231" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        <state relative-caret-position="13">
+          <caret line="51" column="2" lean-forward="true" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
         </state>
       </provider>
     </entry>
