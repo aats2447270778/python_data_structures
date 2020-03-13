@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="753aa6aa-62c7-4f4f-9d59-eef1551b6235" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS5-graph/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS5-graph/第七天/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS5-graph/第七天/graphpractise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS5-graph/第七天/图.长.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS4-tree/第六条2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS4-tree/第六天2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS4-tree/第六天2/treepractise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法" beforeDir="false" afterPath="$PROJECT_DIR$/DS4-tree/第六天2/树和树的算法" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,22 +35,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="树和树的算法" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法">
+      <file leaf-file-name="graphpractise.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DS5-graph/第七天/graphpractise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+            <state relative-caret-position="39">
+              <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="treepractise.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="153" column="47" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="47" />
-            </state>
-          </provider>
+      <file leaf-file-name="图.长.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS5-graph/第七天/图.长.md">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -91,6 +94,7 @@
         <option value="$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索" />
         <option value="$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法" />
         <option value="$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py" />
+        <option value="$PROJECT_DIR$/DS5-graph/第七天/graphpractise.py" />
       </list>
     </option>
   </component>
@@ -104,8 +108,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="464" />
-    <option name="y" value="23" />
+    <option name="x" value="363" />
+    <option name="y" value="160" />
     <option name="width" value="953" />
     <option name="height" value="617" />
   </component>
@@ -128,18 +132,13 @@
             <path>
               <item name="python_data_structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_structures" type="462c0819:PsiDirectoryNode" />
-              <item name="DS3-sortandsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="DS5-graph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data_structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data_structures" type="462c0819:PsiDirectoryNode" />
-              <item name="DS4-tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data_structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data_structures" type="462c0819:PsiDirectoryNode" />
-              <item name="DS4-tree" type="462c0819:PsiDirectoryNode" />
-              <item name="第六条2" type="462c0819:PsiDirectoryNode" />
+              <item name="DS5-graph" type="462c0819:PsiDirectoryNode" />
+              <item name="第七天" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,11 +156,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\UU\Desktop\python_data_structures" />
       <recent name="C:\Users\UU\Desktop\python_data_structures\DS4-tree\第六条2" />
       <recent name="C:\Users\UU\Desktop\python_data_structures\DS2-recursion" />
       <recent name="C:\Users\UU\Desktop\python_data_structures\DS1-introduction" />
       <recent name="C:\Users\UU\Desktop\python_data_structures\DS2-introduction" />
-      <recent name="C:\Users\UU\Desktop\python_data_structures\第一天" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,7 +327,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="401" y="45" width="953" height="617" extended-state="0" />
+    <frame x="318" y="230" width="953" height="617" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
@@ -337,9 +336,9 @@
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.6346604" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.020661157" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3305785" />
       <window_info anchor="right" id="Remote Host" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.1769317" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.18029115" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -350,33 +349,33 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Remote Host" order="5" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" weight="0.039540816" />
       <window_info id="Structure" order="1" sideWeight="0.5018868" side_tool="true" weight="0.10665658" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.6346604" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3983871" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.052158274" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.6346604" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,6 +385,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DS5-graph/第七天/graphpractise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS5-graph/第七天/图.长.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/DS3-sortandsearch/第五天/排序和搜索">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5928">
@@ -652,17 +657,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/树和树的算法">
+    <entry file="file://$PROJECT_DIR$/DS4-tree/第六天2/树和树的算法">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        <state relative-caret-position="367">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS4-tree/第六条2/treepractise.py">
+    <entry file="file://$PROJECT_DIR$/DS4-tree/第六天2/treepractise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="153" column="47" selection-start-line="153" selection-start-column="47" selection-end-line="153" selection-end-column="47" />
+        <state relative-caret-position="183">
+          <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS5-graph/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS5-graph/第七天/图.长.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS5-graph/第七天/graphpractise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
         </state>
       </provider>
     </entry>
